@@ -45,6 +45,15 @@ RNN models
 Архітектура:
 TextVectorization → Embedding → (LSTM / GRU) → спільні шари → два виходи (classification + regression)
 
+<p><img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/99ce6815-c6d4-463a-ba1f-ac151178254b" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e5de27cb-1ba5-4e32-a092-de00be6ec12c" /></p>
+
+<p><img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2d35d688-bab1-434e-9e66-96cfa5f4b14f" />
+ <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/38690b15-76a1-4f78-8d8a-fcd5c31dcb0c" /></p>
+
+<p><img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/68c51836-3433-49ff-88c5-f20e27fb8b41" />
+ <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/087f88d2-6f5d-4fb1-81a9-81c1e521ac12" /></p>
+
 Висновки
 Для кожної бізнес задачі можна підібрати відповідну модель, яка впорається з вхідними даними за допомогою наявних ресурсів.
 Метод BoW досі актуальний, гарно працює з коротким текстом, досить швидко, не з’їдаючи усі ресурси вашого заліза.
