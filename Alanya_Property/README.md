@@ -24,12 +24,21 @@
     отримали 1485 об'єктів у датасеті.  
     З міркування Feature engineering було додано ще дві ознаки, вартість квадратного метру, клас нерухомості.  
 
-
-
 <p><img width="653" height="212" alt="image" src="https://github.com/user-attachments/assets/cc4568a6-3645-42be-9963-76e640b67170" /></p>
 
+### Створення власної бази даних (DBeaver)  
+    Отриманий файл було імпортовано до DBeaver та створено власну базу даних для подальшої роботи.  
+    Нажаль, не вийшло підключити її до Tableau Public адже вони прибрали цю фанкцію з публічної (безкоштовної) версії.
+    Тому запити SQLite робились у самій базі, потім результати завантажувались у .csv файли, та відправлялись до Tableau.  
+    Результатом цього став даний дашборд:  
+
+https://public.tableau.com/views/AlanyaRealEstateInvestmentDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 
 
-Tableau Dashbord - https://public.tableau.com/views/AlanyaRealEstateInvestmentDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+
+
+
+
