@@ -24,6 +24,13 @@ Bag-of-words
 Легкий у використанні, швидко працює, дає гарні результати в задачах класифікації, граний відгук/поганий, спам/не спам.
 Він не враховує контекст, і , відповідно, будь-яку семантику.
 
+<p><img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d6b367f4-660f-4efd-8524-6ce0a9e8a18f" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f79dc806-69bd-48ad-a2fb-ea4937609fbb" /></p>
+
+
+<p><img width="368" height="76" alt="image" src="https://github.com/user-attachments/assets/bd0b745b-c3e4-4ae9-9682-8f401a877013" /></p>
+
+
 RNN models
 
 Рекурентні мережі, тобто послідовні, вже працюють з контекстом.
